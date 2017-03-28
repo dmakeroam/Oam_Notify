@@ -1,1 +1,1 @@
-CDGS Notify Bot for Messaging Services
+Oam Notify Bot for Messaging Services
